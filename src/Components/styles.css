@@ -31,10 +31,9 @@
 
 /* Additional styles */
 body {
-  font-family: Calibri, sans-serif; /* Use Calibri as the primary font with fallback to sans-serif */
-  background-image: url('C:\Users\moham\Desktop\JargonPedia\jargon-pedia\src\assets\background1.jpg'); /* Background image URL */
+  font-family: Calibri, sans-serif; /* 
+  background-image: url('../background1.jpg'); /* Background image URL */
   background-size: cover; /* Cover the entire background */
-  background-repeat: no-repeat; /* Do not repeat the background image */
 }
 
 .form-container {
