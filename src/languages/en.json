@@ -1,0 +1,12 @@
+{
+    "resetPassword": "Reset password",
+    "emailLabel": "Enter your email",
+    "nextButton": "Next",
+    "loginTitle": "Login",
+    "emailPlaceholder": "example@address.xyz",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "forgotPasswordLink": "Forgot password?",
+    "falseInputsLogin":"Invalid credentials. Please check."
+  }
+  

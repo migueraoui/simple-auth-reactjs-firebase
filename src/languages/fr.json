@@ -1,0 +1,12 @@
+{
+    "resetPassword": "Réinitialiser le mot de passe",
+    "emailLabel": "Entrez votre email",
+    "nextButton": "Suivant",
+    "loginTitle": "Connexion",
+    "emailPlaceholder": "exemple@adresse.xyz",
+    "passwordLabel": "Mot de passe",
+    "loginButton": "Se connecter",
+    "forgotPasswordLink": "Mot de passe oublié ?",
+    "falseInputsLogin":"Les informations d'identification invalides. Vérifiez s'il vous plaît."
+  }
+  
